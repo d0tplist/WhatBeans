@@ -23,5 +23,5 @@ class Bundle {
     static String HINT_WhatsAppViewTopComponent() {
         return org.openide.util.NbBundle.getMessage(Bundle.class, "HINT_WhatsAppViewTopComponent");
     }
-    private void Bundle() {}
+    private Bundle() {}
 }

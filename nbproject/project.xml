@@ -58,8 +58,20 @@
             </module-dependencies>
             <public-packages/>
             <class-path-extension>
+                <runtime-relative-path>ext/jxbrowser-win32-6.19.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jxbrowser-win32-6.19.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/jxbrowser-linux64-6.19.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/jxbrowser-linux64-6.19.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
                 <runtime-relative-path>ext/jxbrowser-6.19.jar</runtime-relative-path>
                 <binary-origin>release/modules/ext/jxbrowser-6.19.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/license.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/license.jar</binary-origin>
             </class-path-extension>
             <class-path-extension>
                 <runtime-relative-path>ext/jxbrowser-mac-6.19.jar</runtime-relative-path>
