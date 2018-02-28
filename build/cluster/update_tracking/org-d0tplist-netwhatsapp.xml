@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.d0tplist.netwhatsapp">
+    <module_version install_time="1519844194800" last="true" origin="installer" specification_version="1.0">
+        <file crc="2856533686" name="config/Modules/org-d0tplist-netwhatsapp.xml"/>
+        <file crc="2356325614" name="modules/ext/jxbrowser-6.19.jar"/>
+        <file crc="2747874926" name="modules/ext/jxbrowser-mac-6.19.jar"/>
+        <file crc="2839532464" name="modules/org-d0tplist-netwhatsapp.jar"/>
+    </module_version>
+</module>
